@@ -1,0 +1,4 @@
+google-adk
+requests 
+pydantic
+python-dotenv
